@@ -23,14 +23,14 @@
 </p>
 
 ```
-name: Lucas dos Reis Silva
+name: Lucas Reis
 located_in: Recife, Pernambuco, Brazil
 current_job: Data Science Intern at Sebrae-PE
 education:
   [
     "Bachelor's in Computer Engineering at UFPE (Federal University of Pernambuco)",
   ]
-company: Sebrae-PE
+company: TRACTIAN
 
 fields_of_interests:
   [
@@ -44,6 +44,7 @@ fields_of_interests:
 
 technical_background:
   [
+    "Machine Learning Engineer",
     "Data Science Intern (Machine Learning, Data Analysis, API integration)",
     "Research Intern in Quantum Neural Networks (PIBIC-CNPq)",
     "Researcher in 5G Networks at Motorola/CIN-UFPE",
