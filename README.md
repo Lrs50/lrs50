@@ -25,7 +25,7 @@
 ```
 name: Lucas Reis
 located_in: Recife, Pernambuco, Brazil
-current_job: Data Science Intern at Sebrae-PE
+current_job: Machine Learning Engineer @TRACTIAN
 education:
   [
     "Bachelor's in Computer Engineering at UFPE (Federal University of Pernambuco)",
