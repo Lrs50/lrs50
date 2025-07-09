@@ -92,5 +92,8 @@ hobbies: ["Sports", "Programming", "Music", "Animals"]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrs50&layout=compact" alt="Top Langs" />
 </p>
 
-
-![Snake animation](https://github.com/lrs50/lrs50/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lrs50/lrs50/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lrs50/lrs50/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lrs50/lrs50/output/github-contribution-grid-snake.svg">
+</picture>
