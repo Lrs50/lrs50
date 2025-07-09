@@ -93,4 +93,4 @@ hobbies: ["Sports", "Programming", "Music", "Animals"]
 </p>
 
 
-![Snake animation](https://github.com/lrs50/lrs50/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lrs50/lrs50/output/github-contribution-grid-snake.svg)
