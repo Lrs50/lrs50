@@ -8,53 +8,68 @@
   <a href="https://www.linkedin.com/in/lucas-dos-reis-lrs/">
     <img src="imgs/linkedin.png" alt="LinkedIn" height="40"/>
   </a>
-     
+
   <a href="mailto:lucaspook12@gmail.com">
-    <img src="imgs/gmail.png" alt="Twitter" height="40"/>
+    <img src="imgs/gmail.png" alt="Email" height="40"/>
   </a>
-     
+
   <a href="https://medium.com/@lucasreissi">
-    <img src="imgs/medium.png" alt="Email" height="40"/>
+    <img src="imgs/medium.png" alt="Medium" height="40"/>
   </a>
-     
+
   <a href="https://www.instagram.com/lucas_reissi/">
-    <img src="imgs/instagram.png" alt="Portfolio" height="40"/>
+    <img src="imgs/instagram.png" alt="Instagram" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lucasreis.pages.dev">
+    <img src="https://img.shields.io/badge/Portfolio-lucasreis.pages.dev-701438?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ```
 name: Lucas Reis
+role: Computer Engineer, AI and Machine Learning
 located_in: Recife, Pernambuco, Brazil
-current_job: Machine Learning Engineer @TRACTIAN
+current_position: Master's student in Computer Science at UFPE
+portfolio: https://lucasreis.pages.dev
+
 education:
   [
-    "Bachelor's in Computer Engineering at UFPE (Federal University of Pernambuco)",
+    "Master's in Computer Science, UFPE (in progress since Aug 2025): quantum computing, meta-learning and model selection",
+    "Bachelor's in Computer Engineering, UFPE (graduated May 2025)",
   ]
-company: TRACTIAN
+
+experience:
+  [
+    "AI Engineer, Tractian (Jun 2025 to Oct 2026): LLM-based agents and web-scraping data pipelines, from proof of concept to production",
+    "Data Science Intern, Sebrae (Nov 2024 to Apr 2025): data analysis, machine learning models, API integration and ETL pipelines",
+    "Research Intern in Quantum Neural Networks, PIBIC-CNPq (Sep 2022 to Oct 2023)",
+    "Researcher in 5G Networks, Motorola/CIN-UFPE (Jul 2020 to May 2021)",
+    "Vice-President, Quantum Computing Academic League, LACIQ-UFPE (Jul 2023 to Nov 2024)",
+  ]
 
 fields_of_interests:
   [
-    "MLOps",
+    "LLMs and AI Agents",
     "Data Engineering",
+    "MLOps",
     "Machine Learning",
     "Quantum Computing",
-    "Time-Series Forecasting",
+    "Meta-Learning and Model Selection",
     "Software Development",
   ]
 
-technical_background:
+recent_projects:
   [
-    "Machine Learning Engineer",
-    "Data Science Intern (Machine Learning, Data Analysis, API integration)",
-    "Research Intern in Quantum Neural Networks (PIBIC-CNPq)",
-    "Researcher in 5G Networks at Motorola/CIN-UFPE",
-    "Vice-President of the Quantum Computing Academic League (LACIQ-UFPE)",
+    "Industrial Product Scraper: turns messy product pages into clean, structured data",
+    "Breakfast Forecast: price forecasting for breakfast foods with machine learning, scraping and APIs",
+    "Quantum Dice: random results from a simulated quantum circuit, built as an educational project",
+    "Evolvium: a Python library for optimization with genetic algorithms",
   ]
 
-currently_learning: ["Advanced MLOps techniques, Time-Series Ensemble Forecasting, FastAPI"]
-2025_goals: ["Start a Master's Degree in Computer Science focused on Time-Series Forecasting"]
 hobbies: ["Sports", "Programming", "Music", "Animals"]
-
 ```
 
 <!-- tech stack -->
